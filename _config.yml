@@ -15,7 +15,6 @@
 # in the templates via {{ site.myvariable }}.
 title: Russell Pekrul
 description: >- # this means to ignore newlines until "baseurl:"
-A personal blog to write about nothing in particular.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  rpekrul
