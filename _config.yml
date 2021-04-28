@@ -22,7 +22,7 @@ github_username:  rpekrul
 
 # Build settings
 markdown: kramdown
-remote_theme: minimal-mistakes
+theme: minimal-mistakes
 plugins:
   - jekyll-avatar
   - jekyll-feed
